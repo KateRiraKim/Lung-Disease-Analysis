@@ -2,13 +2,15 @@
 project goal : Developed an image classification model to detect patients with disease using Chest X-Rays images
 
 
+
+
 # explination of dataset.
 used National Institutes of Health Chest X-Ray Dataset(112,120).
 there is patient information with the image index of Chest X-ray image.
 
 
 # Visulizaion 
-###Python
+### Python
 in order to find out which complication would like to occur accorind to each main disease.
 
 # Sequence Pattern Mining
